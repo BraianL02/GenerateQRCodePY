@@ -105,11 +105,6 @@ colors = [
     "brown", "gray", "gold", "lime", "navy", "teal", "maroon",
     "violet", "indigo", "turquoise", "salmon", "coral", "khaki", "plum"
 ]
-colores = [
-    "Negro", "Blanco","Rojo", "Verde", "Azul", "Amarillo", "Naranja", "Morado", "Rosa", "Cian", "Magenta",
-    "Marrón", "Gris", "Dorado", "Lima", "Azul marino", "Verde azulado", "Granate",
-    "Violeta", "Índigo", "Turquesa", "Salmón", "Coral", "Caqui", "Ciruela"
-]
 
 # Combobox color principal
 primary_color = ttk.Combobox(main_window,values=colors, state="readonly")
